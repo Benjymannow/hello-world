@@ -1,2 +1,3 @@
 # hello-world
 A basic introduction to the universe that is GitHub
+A boy who never really grew up, fascinated with the world and bored with himself, he decided to take a trip, not ectasy but that will come...
